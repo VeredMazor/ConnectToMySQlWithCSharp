@@ -1,6 +1,7 @@
 # ConnectToMySQlWithCSharp
 
 A little project to understand how to work with C# and MySQL.
+</n>
 There are simple functions:
 Create a new row in the table.
 Deleting a row from the table.
